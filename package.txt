@@ -1,0 +1,7 @@
+NAME=libarchive
+VERSION=3.3.2
+REVISION=1
+SRC=http://www.libarchive.org/downloads/libarchive-3.3.2.tar.gz
+SRCMD5=4583bd6b2ebf7e0e8963d90879eb1b27
+BUILDDEPS=libxml2 openssl
+INSTALLDEPS=libxml2 openssl
